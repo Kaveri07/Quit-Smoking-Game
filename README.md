@@ -1,2 +1,1 @@
-# Quit-Smoking-Game
-PSA
+# T-rex
